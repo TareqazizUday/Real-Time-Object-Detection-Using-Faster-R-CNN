@@ -3,6 +3,10 @@
 ### Overview
 This project implements a **real-time object detection system** using **Faster R-CNN with ResNet-50**. It allows users to detect objects in images, videos, and live webcam feeds using a **trained model**.
 
+### Dataset Link: 
+```
+https://app.roboflow.com/containing-various-objects-detection-task/various-objects-detection-task/2
+```
 ### Features
 - Detect objects in **multiple images**.
 - Perform real-time detection on **videos**.
