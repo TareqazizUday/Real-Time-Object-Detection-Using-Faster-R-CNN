@@ -51,6 +51,16 @@ https://app.roboflow.com/containing-various-objects-detection-task/various-objec
 - Supports **custom object classes**.
 - Loads a **pretrained checkpoint** for inference.
 
+### Results
+Multiple Image Results
+
+![Picture2](https://github.com/user-attachments/assets/7b6b10fb-0ac2-412a-ac35-ece0ba3d4f15)
+
+Webcam Results
+
+![Picture1](https://github.com/user-attachments/assets/26982a3f-95a6-4b8d-86fa-1d25e1344d54)
+![app-02-06-2025_12_08_AM](https://github.com/user-attachments/assets/5ed76f6a-37ae-4062-b0db-bd8f74979f49)
+
 ### Notes
 - Ensure the model checkpoint is correctly placed in the project directory.
 - GPU is recommended for faster inference.
